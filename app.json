@@ -1,13 +1,13 @@
 {
-    "name": "vless",
+    "name": "v2-vl",
     "description": "deploy xray to heroku",
     "keywords": ["vless"],
     "env": {
         "UUID": {
             "description": "vless UUID",
-            "value": "13b25819-d3d6-41dd-b8f3-d61aeb7305d6"        
+            "value": "50300eb6-d739-439b-9ac8-7bac20d95867"        
         }
     },
-    "repository": "https://github.com/myuktrhrg/Fetwushy",
+    "repository": "https://github.com/xdse56/gyui90",
     "stack": "container"
 }
