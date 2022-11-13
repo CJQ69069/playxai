@@ -1,5 +1,5 @@
 {
-    "name": "v2-vl",
+    "name": "playxai",
     "description": "deploy xray to heroku",
     "keywords": ["vless"],
     "env": {
